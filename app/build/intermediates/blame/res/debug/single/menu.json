@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

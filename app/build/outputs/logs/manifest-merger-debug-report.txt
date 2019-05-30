@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:10:1-63
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:10:18-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:19:22-70
+application
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:20:5-38:19
+	android:label
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.mynews.LoginActivity
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:26:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.mynews.RegistActivity
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:34:9-79
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:34:19-67
+activity#com.example.mynews.MainActivity
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:35:10-78
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:35:20-66
+activity#com.example.mynews.talklist
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:36:11-75
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:36:21-63
+activity#com.example.mynews.user_update
+ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:37:14-81
+	android:name
+		ADDED from E:\Android\workspace\xinwen\app\src\main\AndroidManifest.xml:37:24-69

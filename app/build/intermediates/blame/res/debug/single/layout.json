@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xinwen_item.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\layout\\xinwen_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\talklist.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\layout\\talklist.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_item.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\layout\\navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\talk_item.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\layout\\talk_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_update.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\layout\\user_update.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_regist.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\layout\\user_regist.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_login.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\layout\\user_login.xml"
+    }
+]

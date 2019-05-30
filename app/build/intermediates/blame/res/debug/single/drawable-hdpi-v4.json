@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tuxiang.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\tuxiang.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\u33.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\u33.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\u103.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\u103.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txt_lock_icon.jpg",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\txt_lock_icon.jpg"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_border1.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\bg_border1.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txtborder.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\txtborder.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pre.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\ic_pre.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_next.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bag_edit.xml",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\bag_edit.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\u98.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\u98.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txt_person_icon.jpg",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\txt_person_icon.jpg"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg1.jpg",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\bg1.jpg"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stub.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\u123.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\u123.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_view.9.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\bg_view.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\putao2.jpg",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\putao2.jpg"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\xinwen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_navigation.9.png",
+        "source": "E:\\Android\\workspace\\xinwen\\app\\src\\main\\res\\drawable-hdpi\\bg_navigation.9.png"
+    }
+]
